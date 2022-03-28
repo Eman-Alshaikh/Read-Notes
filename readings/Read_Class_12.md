@@ -97,7 +97,7 @@ Pandas is a game-changer for data science and analytics, particularly if you cam
 
 
  
-## What is Pandas
+## What is Pandas?
 
 with pandas you can load prepare
 manipulate model and analyze data you
