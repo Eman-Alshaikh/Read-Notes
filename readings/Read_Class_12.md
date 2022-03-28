@@ -101,4 +101,4 @@ Pandas is a game-changer for data science and analytics, particularly if you cam
 
 with pandas you can load prepare
 manipulate model and analyze data you
-can join data you can merge data you can reshape data you can take data from different data bases and put it together and analyze it you can do pretty much anything you want to with data and it all revolves around a structure called a data frame.
+can join data you can merge data you can reshape data you can take data from different data bases and put it together and analyze it you can do pretty much anything you want to data and it all revolves around a structure called a data frame.
