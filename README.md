@@ -17,7 +17,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
  |Read: Class 09  ( Game of Greed 4) |  [the link ](readings/READ_9.md)      |
 |Read: Stacks & Queues |  [the link ](readings/Read_Stacks_Queues)      |
   |Read: Class 11( Data Analysis) |  [the link ](readings/README_11)      |
-|Read: Class 12 |  [the link ](readings/Read_Class_12)      |
+|Read: Class 12 |  [the link ](readings/Read_Class_12.md)      |
 
 
 ##  :red_square:Code 201 - Foundations of Software Development
