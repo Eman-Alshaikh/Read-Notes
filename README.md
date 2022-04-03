@@ -18,6 +18,8 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Read: Stacks & Queues |  [the link ](readings/Read_Stacks_Queues)      |
   |Read: Class 11( Data Analysis) |  [the link ](readings/README_11)      |
 |Read: Class 12 |  [the link ](readings/Read_Class_12.md)      |
+|Read: Class 13 :Readings: Linear Regressions|  [the link ](Read-Notes/readings/READ_13)      |
+
 
 
 ##  :red_square:Code 201 - Foundations of Software Development
