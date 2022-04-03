@@ -32,6 +32,13 @@ Regression problems usually have one continuous and unbounded dependent variable
 
 It is a common practice to denote the outputs with 𝑦 and inputs with 𝑥. If there are two or more independent variables, they can be represented as the vector 𝐱 = (𝑥₁, …, 𝑥ᵣ), where 𝑟 is the number of inputs.
 
+- Simple Linear Regression
+Simple or single-variate linear regression is the simplest case of linear regression with a single independent variable, 𝐱 = 𝑥.
+
+The following figure illustrates simple linear regression:
+![](lr.PNG)
+
+
 When Do You Need Regression?
 Typically, you need regression to answer whether and how some phenomenon influences the other or how several variables are related. For example, you can use it to determine if and to what extent the experience or gender impact salaries.
 
@@ -81,8 +88,22 @@ Python Packages for Linear Regression:
 The package NumPy is a fundamental Python scientific package that allows many high-performance operations on single- and multi-dimensional arrays. It also offers many mathematical routines. Of course, it’s open source.
 The package scikit-learn is a widely used Python library for machine learning, built on top of NumPy and some other packages. It provides the means for preprocessing data, reducing dimensionality, implementing regression, classification, clustering, and more. Like NumPy, scikit-learn is also open source.
 
+- Linear regression is implemented with the following:
 
+scikit-learn if you don’t need detailed results and want to use the approach consistent with other regression techniques
+statsmodels if you need the advanced statistical parameters of a model
+Both approaches are worth learning how to use and exploring further. The links in this article can be very useful for that.
 
+- Simple Linear Regression With scikit-learn
+Let’s start with the simplest case, which is simple linear regression.
+
+There are five basic steps when you’re implementing linear regression:
+
+1- Import the packages and classes you need.
+2- Provide data to work with and eventually do appropriate transformations.
+3- Create a regression model and fit it with existing data.
+4- Check the results of model fitting to know whether the model is satisfactory.
+5- Apply the model for predictions.
 
 # Introduction to Simple Linear Regressions
 
