@@ -20,6 +20,8 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Read: Class 12 |  [the link ](readings/Read_Class_12)      |
 |Read :Class 13 ( Linear Regressions )|  [the link ](readings/READ_13)      |
 |Read :Class 14 ( Data Visualization )|  [the link ](readings/read_14)      |
+|Read : Trees|  [the link ](readings/read15)      |
+
 
 
 
