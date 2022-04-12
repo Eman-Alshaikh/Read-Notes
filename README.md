@@ -22,6 +22,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Read :Class 14 ( Data Visualization )|  [the link ](readings/read_14)      |
 |Read : Trees|  [the link ](readings/read15)      |
 |Readings: Serverless Functions|  [the link ](readings/read_15)      |
+|Readings: Web Scraping|  [the link ](readings/readme_17)      |
 
 
 
