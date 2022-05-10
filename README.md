@@ -24,7 +24,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Readings: Serverless Functions|  [the link ](readings/read_15)      |
 |Readings: Web Scraping|  [the link ](readings/readme_17)      |
 |Readings: Intro to Django|  [the link ](readings/readme26)      |
-|Readings: Django Models|  [the link ](readings/Django_Models27.md)      |
+|Readings: Django Models|  [the link ](readings/Django_Models27)      |
 
 
 
