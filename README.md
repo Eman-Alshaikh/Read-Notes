@@ -25,9 +25,12 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Readings: Web Scraping|  [the link ](readings/readme_17)      |
 |Readings: Intro to Django|  [the link ](readings/readme26)      |
 |Readings: Django Models|  [the link ](readings/Django_Models27)      |
+|Readings: Django CRUD and Forms (28)|  [the link ](readings/read_28)      |
 
 
 
+
+ 
 
 
 
