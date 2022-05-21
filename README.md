@@ -27,6 +27,9 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Readings: Django Models|  [the link ](readings/Django_Models27)      |
 |Readings: Django CRUD and Forms (28)|  [the link ](readings/read_28)      |
 |Readings: Django Custom User|  [the link ](readings/readme29.md)      |
+|Readings:  Hash Tables|  [the link ](readings/read_30)      |
+|Readings 31:   Django REST Framework & Docker|  [the link ](readings/read_31)      |
+
 
 
 
