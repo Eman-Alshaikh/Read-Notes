@@ -29,6 +29,15 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Readings: Django Custom User|  [the link ](readings/readme29.md)      |
 |Readings:  Hash Tables|  [the link ](readings/read_30)      |
 |Readings 31:   Django REST Framework & Docker|  [the link ](readings/read_31)      |
+|Readings 32:   Readings: Permissions & Postgresql|  [the link ](readings/read_32)      |
+|Readings 33:   Readings: Authentication & Production Server|  [the link ](readings/read_33)      |
+|Readings 34:  Readings: API Deployment|  [the link ](readings/read_34)      |
+|Readings 36:   Readings: DSA Review|  [the link ](readings/read_36)      |
+|Readings 37:   Readings: React 1|  [the link ](readings/read_37)      |
+|Readings 38: React 2|  [the link ](readings/read_38)      |
+|Readings :  graph|  [the link ](readings/graph)      |
+|Readings 31:   Django REST Framework & Docker|  [the link ](readings/read_31)      |
+|Readings 31:   Django REST Framework & Docker|  [the link ](readings/read_31)      |
 
 
 
