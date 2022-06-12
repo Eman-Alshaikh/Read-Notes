@@ -36,8 +36,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Readings 37:   Readings: React 1|  [the link ](readings/read_37)      |
 |Readings 38: React 2|  [the link ](readings/read_38)      |
 |Readings :  graph|  [the link ](readings/graph)      |
-|Readings 31:   Django REST Framework & Docker|  [the link ](readings/read_31)      |
-|Readings 31:   Django REST Framework & Docker|  [the link ](readings/read_31)      |
+ 
 
 
 
